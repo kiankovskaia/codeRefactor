@@ -2,7 +2,7 @@
 
 
 The goal of this assignment was to refactor the code and meet a certain set of standards or implement a new technology. Tags <id>, <class>, and <element> should be changed so that the website looked the same, but was more accessible and descriptive. 
-I achieved this by using the semantic tags <nav>, <main>, <article>, <aside>, and <section> tags. In doing so, it was essential to familiarize with myself how each tag could affect the output. Once I figured out what is appropriate to go where in the source code, it was a matter of filling in the blanks. When changing the tags from their original <div> tags, I needed to alter the CSS to properly link the code again. I also added descriptive comments outlining each section. One part in particular was tricky, when deciding what to remove or change. In the header, <h1>Hori<span class="seo">seo</span>n</h1> I origionally wanted to simplyfy it, but the <span>is allowing a subltle color change in the logo. Sometimes it's the small details that are hard to catch. I also consolidated the CSS to be fewer lines of code.
+I achieved this goal by using the semantic tags like <nav>, <main>, <article>, <aside>, and <section> tags. I got familiar how each tag works in order to affect the output. Once I figured out what is appropriate to go where in the source code, it was a matter of filling in the blanks. When changing the tags from their original <div> tags, I needed to alter the CSS to properly link the code again. I also added descriptive comments outlining each section. 
 
 ## Your Task
 
